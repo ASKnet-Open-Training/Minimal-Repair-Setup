@@ -6,3 +6,5 @@ What are the most important tools and materials to have available when doing a r
 -headlamp or flashlight,
 -magnifying glass,
 -Torch / soldering iron(s) & sucker, solder,
+*MATERIALS
+-
