@@ -26,4 +26,4 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - some few electrical components
 - (resistors,diode,etc).
 - Screw driver 
- ADJUMANI TEAM TOOLKIT
+ 
