@@ -25,6 +25,5 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - soldering oil/grease
 - some few electrical components
 - (resistors,diode,etc).
-- Screw driver set.
-
-[Example Setup File - soon](/Example-Setup1.md)
+- Screw driver 
+ ADJUMANI TEAM TOOLKIT
