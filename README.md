@@ -24,8 +24,11 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - wires
 - soldering oil/grease
 - some few electrical components
-- (resistors,diode,etc).
-- Screw driver 
+- (resistors,diode,capacitors,etc)
+- radio volume controllers
+- mouspiece
+- FM aerials
+  to mention but a few
 
  TEAM ADJUMANI TRACK ll TOOL KIT 
 
