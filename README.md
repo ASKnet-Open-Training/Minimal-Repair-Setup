@@ -31,7 +31,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
  #There are 64pieces of tools in the kit,these include:
 
-- tweezet
+- tweezer
 - plier
 - box sperners. 4,5,6,7,8,9,10,11,12and13
 - Network cable crimping tool
