@@ -26,7 +26,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - some few electrical components
 - (resistors,diode,capacitors,etc)
 - radio volume controllers
-- mouspiece
+- mousepiece
 - FM aerials
   to mention but a few
 
