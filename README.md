@@ -51,7 +51,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - Solder sucker
 - Soldering gun stand
   
-  2.TEAM EDEN TOOLKIT.
+2.TEAM EDEN TOOLKIT.
 
 
 
