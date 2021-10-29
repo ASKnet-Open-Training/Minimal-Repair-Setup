@@ -36,19 +36,33 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
  #There are 64pieces of tools in the kit,these include:
 
 - Tweezer
+
 - Plier
+
 - Box sperners. 4,5,6,7,8,9,10,11,12and13
+
 - Network cable crimping tool
+
 - Tape measure (3m)
+
 - Digital a/c/Dc tester
+
 - Radio set(6pieces)
+
 - phone set(10pieces)
+
 - Multimetre
+
 - Sole tape
+
 - Wire cutter
+
 - Soldering wire
+
 - Soldering gun (60wts)
+
 - Solder sucker
+
 - Soldering gun stand
   
 2.TEAM EDEN TOOLKIT - RHINO CAMP
