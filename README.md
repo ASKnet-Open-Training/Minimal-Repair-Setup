@@ -50,6 +50,10 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - Soldering gun (60wts)
 - Solder sucker
 - Soldering gun stand
+  
+  TEAM EDEN TOOLKIT.
+
+
 
 
 
