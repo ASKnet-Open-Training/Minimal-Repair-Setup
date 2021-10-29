@@ -30,7 +30,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - FM aerials
   to mention but a few
 
- TEAM ADJUMANI TRACK ll TOOL KIT
+ 1.TEAM ADJUMANI TRACK ll TOOL KIT
 
 
  #There are 64pieces of tools in the kit,these include:
@@ -51,7 +51,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - Solder sucker
 - Soldering gun stand
   
-  TEAM EDEN TOOLKIT.
+  2.TEAM EDEN TOOLKIT.
 
 
 
