@@ -79,6 +79,30 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Digital multimetre
 
+  TEAM JUBA/TORIT TOWN TRACK II TOOLKIT CONTENT LIST.
+
+- Wire strainer
+
+- Wire cutter
+
+- long nose
+
+- Allein key(5)pieces
+
+- Radio set(5)pieces
+
+- solder sucker
+
+- Digital multimetre
+
+- 3metre tape measure
+
+- Phone set(6)pieces
+
+- Box sperners 4,5,6,7,8,9,10,11,12and13
+
+- Gripper
+
 
 
 
