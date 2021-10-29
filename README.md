@@ -53,6 +53,19 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
   
 2.TEAM EDEN TOOLKIT - RHINO CAMP
 
+- Soldering gun
+
+- Radio set(05) pieces
+
+- phone set(12) pieces
+
+- Magnifying glass
+
+- Soldering wire
+
+- Digital multimetre
+
+
 
 
 
