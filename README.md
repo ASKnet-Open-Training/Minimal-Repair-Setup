@@ -1,6 +1,7 @@
 # Minimal-Repair-Setup
 > What are the most important tools and materials to have available when doing a repair session?
 
+![](Setup-3-Juba/Setup-3.jpg)
 
 ## Minimal Set
 - Screw drivers set
