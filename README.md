@@ -116,18 +116,31 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - 2rolls of soldering wire
 
 - 1wire cutter
+
 5.TEAM PAGIRINYA TRACK ll TOOLKIT CONTENT LIST
+
 - phone set(4)
+
 - Magnifying lens 
+
 - Digital multimeter
+
 - Soldering gun(2) 30wts
+
 - Soldering paste
+
 - Head light
+
 - Wire cutter
+
 - 2pen tester
+
 - Soldering wire (1roll)
+
 - Soldering gun stand
+
 - Tape measure(3metre)
+
 - Sole tape.
 
 
