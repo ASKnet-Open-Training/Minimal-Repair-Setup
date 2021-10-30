@@ -103,6 +103,20 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Gripper
 
+4.TEAM JUBA GOGIRLS ICT TRACK ll TOOLKIT CONTENT LIST.
+
+- 2computer blowers
+
+- 1computer cleaner
+
+- 3pen tester
+
+- 1soldering gun
+
+- 2rolls of soldering wire
+
+- 1wire cutter
+
 
 
 
