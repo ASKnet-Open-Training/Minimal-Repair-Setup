@@ -27,7 +27,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - some few electrical components
 - (resistors,diode,capacitors,etc)
 - radio volume controllers
-- mousepiece
+- mouth pieces
 - FM aerials
   to mention but a few
 
@@ -40,7 +40,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Plier
 
-- Box sperners. 4,5,6,7,8,9,10,11,12and13
+- Box spanners. 4,5,6,7,8,9,10,11,12 and 13
 
 - Network cable crimping tool
 
@@ -82,11 +82,11 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 3.TEAM JUBA/TORIT TOWN TRACK II TOOLKIT CONTENT LIST.
 
-- Wire strainer
+- wizard Wire strainer
 
 - Wire cutter
 
-- long nose
+- needle nose pliers
 
 - Allein key(5)pieces
 
@@ -96,27 +96,27 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Digital multimetre
 
-- 3metre tape measure
+- 3 metre tape measure
 
 - Phone set(6)pieces
 
-- Box sperners 4,5,6,7,8,9,10,11,12and13
+- Box spanners 4,5,6,7,8,9,10,11,12and13
 
 - Gripper
 
 4.TEAM JUBA GOGIRLS ICT TRACK ll TOOLKIT CONTENT LIST.
 
-- 2computer blowers
+- 2 computer blowers
 
-- 1computer cleaner
+- 1 computer cleaner
 
-- 3pen tester
+- 3 pen testers
 
-- 1soldering gun
+- 1 soldering gun
 
-- 2rolls of soldering wire
+- 2 rolls of soldering wire
 
-- 1wire cutter
+- 1 wire cutter
 
 5.TEAM PAGIRINYA TRACK ll TOOLKIT CONTENT LIST
 
@@ -134,13 +134,13 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Wire cutter
 
-- 2pen tester
+- 2 pen testers
 
 - Soldering wire (1roll)
 
 - Soldering gun stand
 
-- Tape measure(3metre)
+- Tape measure(3metres)
 
 - Sole tape.
 
