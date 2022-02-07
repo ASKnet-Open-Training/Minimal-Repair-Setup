@@ -21,7 +21,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - magnifying glass,
 - Torch / soldering iron(s) & sucker, solder,
 
-### MATERIALS
+# MATERIALS
 - wires
 - soldering oil/grease
 - some few electrical components
@@ -31,10 +31,10 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - FM aerials
   to mention but a few
 
- 1.TEAM ADJUMANI TRACK ll TOOL KIT
+ # TEAM ADJUMANI TRACK ll TOOL KIT
 
 
- #There are 64pieces of tools in the kit,these include:
+ There are 64pieces of tools in the kit,these include:
 
 - Tweezer
 
@@ -66,7 +66,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Soldering gun stand
   
-2.TEAM EDEN TOOLKIT - RHINO CAMP
+# TEAM EDEN TOOLKIT - RHINO CAMP
 
 - Soldering gun
 
@@ -80,7 +80,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Digital multimetre
 
-3.TEAM JUBA/TORIT TOWN TRACK II TOOLKIT CONTENT LIST.
+# TEAM JUBA/TORIT TOWN TRACK II TOOLKIT CONTENT LIST.
 
 - Wire strainer
 
@@ -104,7 +104,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Gripper
 
-4.TEAM JUBA GOGIRLS ICT TRACK ll TOOLKIT CONTENT LIST.
+# TEAM JUBA GOGIRLS ICT TRACK ll TOOLKIT CONTENT LIST.
 
 - 2computer blowers
 
@@ -118,7 +118,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - 1wire cutter
 
-5.TEAM PAGIRINYA TRACK ll TOOLKIT CONTENT LIST
+# TEAM PAGIRINYA TRACK ll TOOLKIT CONTENT LIST
 
 - phone set(4)
 
