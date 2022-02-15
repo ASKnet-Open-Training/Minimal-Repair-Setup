@@ -143,6 +143,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - Tape measure(3metres)
 
 - Sole tape.
+# sitting arrangement(Set up)
 
 
 
