@@ -12,7 +12,7 @@
 ## Other Ideas
 Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
-### TOOLS
+# tools
 - power source
 - digital multimeter
 - notebook, pens,
@@ -21,7 +21,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - magnifying glass,
 - Torch / soldering iron(s) & sucker, solder,
 
-# MATERIALS
+# materials
 - wires
 - soldering oil/grease
 - some few electrical components
