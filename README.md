@@ -29,9 +29,13 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - radio volume controllers
 - mouth pieces
 - FM aerials
-  to mention but a few
+- charging ports for phones
+- Earpiece
+- phone terminals
+- phone screen,some pieces
 
- # TEAM ADJUMANI TRACK ll TOOL KIT
+
+ # option one
 
 
  There are 64pieces of tools in the kit,these include:
@@ -66,7 +70,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Soldering gun stand
   
-# TEAM EDEN TOOLKIT - RHINO CAMP
+# option two
 
 - Soldering gun
 
@@ -80,7 +84,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Digital multimetre
 
-# TEAM JUBA/TORIT TOWN TRACK II TOOLKIT CONTENT LIST.
+# option three
 
 - wizard Wire strainer
 
@@ -104,7 +108,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - Gripper
 
-# TEAM JUBA GOGIRLS ICT TRACK ll TOOLKIT CONTENT LIST.
+# option four
 
 - 2 computer blowers
 
@@ -118,7 +122,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 - 1 wire cutter
 
-# TEAM PAGIRINYA TRACK ll TOOLKIT CONTENT LIST
+# option five
 
 - phone set(4)
 
