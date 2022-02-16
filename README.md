@@ -35,8 +35,6 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 
  # option one
- ![image](![image](https://user-images.githubusercontent.com/71114711/154234398-f90b595e-d6aa-45ff-9439-4c80f2c631c5.png)
-)
 
 
  There are 64pieces of tools in the kit,these include:
@@ -150,8 +148,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - Sole tape.
 # sitting arrangement(Set up)
 ## sketch plan
-![image](![image](https://user-images.githubusercontent.com/71114711/154232639-ac5ed0a2-26ed-4133-a3e9-59435f1c04f8.png)
-)
+
 
 
 
