@@ -2,13 +2,13 @@
 ## tools
 You can have any choice of tools based on the option available at a time.
 
-## general Minimal Set
+## general minimal set
 - Screw drivers set
 - Soldering Kit
 - Soldering Wire
 - Multimeter
 
-## Other Ideas
+## Other ideas
 Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 # tools
