@@ -148,7 +148,8 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - Sole tape.
 # sitting arrangement(Set up)
 ## sketch plan
-![](![image](https://user-images.githubusercontent.com/71114711/154225027-c3db4a3b-bc6a-4658-990a-00d5d372f234.png)
+
+![](![image](https://user-images.githubusercontent.com/71114711/154231346-20ae0673-afc8-41d3-a272-b33808102874.png)
 )
 
 
