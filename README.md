@@ -1,9 +1,8 @@
 # Minimal-Repair-Setup
-> What are the most important tools and materials to have available when doing a repair session?
+## tools
+You can have any choice of tools based on the option available at a time.
 
-![](Setup-3-Juba/Setup-3.jpg)
-
-## Minimal Set
+## general Minimal Set
 - Screw drivers set
 - Soldering Kit
 - Soldering Wire
