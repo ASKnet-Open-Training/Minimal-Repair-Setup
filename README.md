@@ -149,8 +149,8 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 # sitting arrangement(Set up)
 ## sketch plan
 
-![](![image](https://user-images.githubusercontent.com/71114711/154231346-20ae0673-afc8-41d3-a272-b33808102874.png)
-)
+
+
 
 
 
