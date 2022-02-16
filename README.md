@@ -144,11 +144,12 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - Soldering gun stand
 
 - Tape measure(3metres)
-
+..
 - Sole tape.
 # sitting arrangement(Set up)
 ## sketch plan
-![]()
+![sk](![Untitled-2022-02-16-1635](https://user-images.githubusercontent.com/71114711/154322594-631d8c4e-85dc-4f88-b03d-1229611c8284.png)
+).
 
 
 
