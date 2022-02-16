@@ -12,7 +12,7 @@ You can have any choice of tools based on the option available at a time.
 Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 # tools
-- power source
+
 - digital multimeter
 - notebook, pens,
 - trays for parts,
