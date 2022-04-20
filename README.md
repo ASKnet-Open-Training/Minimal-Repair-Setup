@@ -34,10 +34,9 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 - phone screen,some pieces
 
 
- # option one
-![toolkit](mtp://%5Busb%3A001,014%5D/Internal%20shared%20storage/Pictures/Telegram/IMG_20220215_234255_374.jpg)
+ # Setup 1
 
- There are 64pieces of tools in the kit,these include:
+There are 64pieces of tools in the kit,these include:
 
 - Tweezer
 
