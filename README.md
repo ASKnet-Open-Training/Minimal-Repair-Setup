@@ -82,7 +82,7 @@ There are 64pieces of tools in the kit,these include:
 
 - Digital multimetre
 
-# option three
+# Setup-3-Juba
 
 - wizard Wire strainer
 
