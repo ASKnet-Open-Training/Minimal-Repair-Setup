@@ -68,7 +68,7 @@ There are 64pieces of tools in the kit,these include:
 
 - Soldering gun stand
   
-# option two
+# Setup-2-Pagirinya
 
 - Soldering gun
 
@@ -106,7 +106,7 @@ There are 64pieces of tools in the kit,these include:
 
 - Gripper
 
-# option four
+# Setup-4-Juba
 
 - 2 computer blowers
 
