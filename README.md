@@ -120,7 +120,7 @@ There are 64pieces of tools in the kit,these include:
 
 - 1 wire cutter
 
-# option five
+# Setup-5-Eden
 
 - phone set(4)
 
@@ -147,8 +147,7 @@ There are 64pieces of tools in the kit,these include:
 - Sole tape.
 # sitting arrangement(Set up)
 ## sketch plan
-![sk](![Untitled-2022-02-16-1635](https://user-images.githubusercontent.com/71114711/154322594-631d8c4e-85dc-4f88-b03d-1229611c8284.png)
-).
+
 
 
 
