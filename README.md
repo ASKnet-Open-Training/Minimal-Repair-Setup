@@ -38,6 +38,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
  # Setup-1-Adjumani
 ![](IMG_20220514_025917_170.jpg)
+![](IMG_20220514_042915_630.jpg)
 
 [Toolkit image](Setup-1-Adjumani/)
 
