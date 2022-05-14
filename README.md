@@ -35,6 +35,7 @@ Also check this out: https://wikifab.org/wiki/Repair_Cafe%27
 
 
  # Setup-1-Adjumani
+
 [Toolkit image](Setup-1-Adjumani/)
 
 There are 64pieces of tools in the kit,these include:
@@ -70,6 +71,7 @@ There are 64pieces of tools in the kit,these include:
 - Soldering gun stand
   
 # Setup-2-Pagirinya
+
 [Tools images](Setup-2-Pagirinya/)
 
 
@@ -86,6 +88,8 @@ There are 64pieces of tools in the kit,these include:
 - Digital multimetre
 
 # Setup-3-Juba
+
+[Toolkit image](Setup-3-Juba/)
 
 - wizard Wire strainer
 
