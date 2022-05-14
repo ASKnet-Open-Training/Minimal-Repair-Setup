@@ -139,6 +139,7 @@ There are 64pieces of tools in the kit,these include:
 - 1 wire cutter
 
 # Setup-5-Eden
+![](Setup-5.jpg)
 
 [Toolkit image and documentation](Setup-5-Eden)
 
