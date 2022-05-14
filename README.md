@@ -155,7 +155,11 @@ There are 64pieces of tools in the kit,these include:
 
 - Tape measure(3metres)
 
-- Sole tape.
+- Sole tape
+# setup-6-Ocea
+
+[Toolkit image](Setup-6-Ocea/Setup-6.jpg)
+
 # sitting arrangement(Set up)
 ## sketch plan
 
