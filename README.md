@@ -169,6 +169,8 @@ For git-issue-template,click>>[git-issue-template](.github/ISSUE_TEMPLATE/)
 # sitting arrangement(Set up)
 ## sketch plan
 
+![](IMG_20220514_034739_433.jpg)
+
 
 
 
