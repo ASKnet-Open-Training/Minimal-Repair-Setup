@@ -140,6 +140,7 @@ There are 64pieces of tools in the kit,these include:
 
 # Setup-5-Eden
 ![](Setup-5.jpg)
+![](Documentation for the Second Remote Repair Cafe _ Eden (1).docx)
 
 [Toolkit image and documentation](Setup-5-Eden)
 
