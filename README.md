@@ -75,6 +75,7 @@ There are 64pieces of tools in the kit,these include:
 - Soldering gun stand
   
 # Setup-2-Pagirinya
+![](IMG_20220420_203737_755.jpg)
 
 [Tools images](Setup-2-Pagirinya/)
 
