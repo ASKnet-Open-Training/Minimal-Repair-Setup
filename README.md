@@ -122,6 +122,7 @@ There are 64pieces of tools in the kit,these include:
 # Setup-4-Juba
 
 ![](Setup-4-1.jpg)
+![](Setup-4.jpg)
 
 [Toolkit image]()
 
