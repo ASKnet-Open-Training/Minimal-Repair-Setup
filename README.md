@@ -93,6 +93,7 @@ There are 64pieces of tools in the kit,these include:
 - Digital multimetre
 
 # Setup-3-Juba
+![](Setup-3.jpg)
 
 [Toolkit image](Setup-3-Juba/)
 
