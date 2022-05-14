@@ -89,7 +89,7 @@ There are 64pieces of tools in the kit,these include:
 
 # Setup-3-Juba
 
-[Tools image](Setup-3-Juba/)
+[Toolkit image](Setup-3-Juba/)
 
 - wizard Wire strainer
 
