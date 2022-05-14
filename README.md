@@ -160,6 +160,10 @@ There are 64pieces of tools in the kit,these include:
 
 [Toolkit image](Setup-6-Ocea/Setup-6.jpg)
 
+# Setup-7-bor
+
+[Toolkit image](Setup-6-Ocea/Setup-6.jpg)
+
 # sitting arrangement(Set up)
 ## sketch plan
 
