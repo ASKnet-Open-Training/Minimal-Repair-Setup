@@ -131,6 +131,8 @@ There are 64pieces of tools in the kit,these include:
 
 # Setup-5-Eden
 
+[Toolkit image and documentation](Setup-5-Eden)
+
 - phone set(4)
 
 - Magnifying lens 
@@ -152,7 +154,7 @@ There are 64pieces of tools in the kit,these include:
 - Soldering gun stand
 
 - Tape measure(3metres)
-..
+
 - Sole tape.
 # sitting arrangement(Set up)
 ## sketch plan
