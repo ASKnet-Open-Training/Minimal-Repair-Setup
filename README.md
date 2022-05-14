@@ -2,6 +2,8 @@
 ## tools
 You can have any choice of tools based on the option available at a time.
 
+![](IMG_20220514_035228_725.jpg)
+
 ## general minimal set
 - Screw drivers set
 - Soldering Kit
