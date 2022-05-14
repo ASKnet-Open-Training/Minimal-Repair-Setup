@@ -121,9 +121,9 @@ There are 64pieces of tools in the kit,these include:
 
 # Setup-4-Juba
 
-![](Setup/Setup-4-1.jpg)
+![](Setup-4-1.jpg)
 
-[Toolkit image](Setup-4-Juba/)
+[Toolkit image]()
 
 - 2 computer blowers
 
