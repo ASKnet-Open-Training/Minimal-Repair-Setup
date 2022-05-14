@@ -168,7 +168,7 @@ There are 64pieces of tools in the kit,these include:
 
 For git-issue-template,click>>[git-issue-template](.github/ISSUE_TEMPLATE/)
 
-For Information on how to use the git-issue-template,refer to >>>>[pgirinya satellite issue template](issues/15#)
+
 
 # sitting arrangement(Set up)
 ## sketch plan
