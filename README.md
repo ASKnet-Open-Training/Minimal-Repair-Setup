@@ -167,7 +167,9 @@ There are 64pieces of tools in the kit,these include:
 [Toolkit image](Setup-6-Ocea/Setup-6.jpg)
 
 For git-issue-template,click>>[git-issue-template](.github/ISSUE_TEMPLATE/)
-For Information on how to use the git-issue-template,refer to >>>>[pgirinya satellite issue template](issues/15#)
+
+For Information on how to use the git-issue-template,refer to >>>>[pgirinya satellite issue template](Minimal-Repair-Setup/issues/15#)
+
 # sitting arrangement(Set up)
 ## sketch plan
 
