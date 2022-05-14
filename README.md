@@ -164,6 +164,8 @@ There are 64pieces of tools in the kit,these include:
 
 [Toolkit image](Setup-6-Ocea/Setup-6.jpg)
 
+For git-issue-template,click>>[git-issue-template](.github/ISSUE_TEMPLATE/)
+
 # sitting arrangement(Set up)
 ## sketch plan
 
